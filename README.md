@@ -18,8 +18,9 @@ permalink: /about/
 ### _config.yml
 > Code block will look like this.
 ```yml
-highlighter-theme: monokai //you can change your syntax color scheme.
-date_format: "%Y-%M-%D" //and date format.
+theme: jekyll-theme-Monos
+title: acme31 hompage
+description: Bookmark this to keep an eye on my project updates !
 ```
 
 ### Screenshots
