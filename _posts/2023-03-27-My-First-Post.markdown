@@ -1,8 +1,8 @@
 ---
 layout: post
-title: First Post!
+title: "First Post!"
 date: 2023-03-27 22:40:23 +0900
-category: Sample
+category: Daily
 ---
 # First Post
 > Hello! My name is Lee Minjoon. This is my first post on my blog. We'll become a developer who grows day by day!
