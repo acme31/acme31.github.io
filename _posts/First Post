@@ -1,0 +1,13 @@
+---
+layout: post
+title: First Post!
+date: 2023-03-27 22:40:23 +0900
+category: Sample
+---
+# First Post
+> Hello! My name is Lee Minjoon. This is my first post on my blog. We'll become a developer who grows day by day!
+
+in the end..
+```ruby
+print 'Stay tuned for my latest updates!'
+```
